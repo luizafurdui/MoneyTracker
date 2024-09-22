@@ -14,7 +14,7 @@ View all transactions with details such as date, description, and amount.
 Fully responsive design for both mobile and desktop views.
 Data is stored in MongoDB for persistence.
 
-📒** Process**
+📒**Process**
 
 I started by setting up the backend with Express and connected it to MongoDB for data storage. Next, I focused on building the frontend using React to allow users to input transactions and view them dynamically. I used Tailwind CSS to style the UI and make it responsive.
 
